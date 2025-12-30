@@ -56,9 +56,6 @@ I strive every day to become a better developer.
 ---
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiqweb123&layout=compact&theme=react" />
-</p>
 
 
 ---
