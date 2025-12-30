@@ -58,7 +58,8 @@ I strive every day to become a better developer.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" />
+(https://github-readme-stats.vercel.app/api?username=Ashiqweb123&show_icons=true&theme=react)
+
 </p>
 
 <p align="center">
