@@ -58,17 +58,17 @@ I strive every day to become a better developer.
 ## 📊 GitHub Stats
 
 <p align="center">
-(https://github-readme-stats.vercel.app/api?username=Ashiqweb123&show_icons=true&theme=react)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashiqweb123&show_icons=true&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiqweb123&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiqweb123&layout=compact&theme=react" />
 </p>
+
 
 ---
 
