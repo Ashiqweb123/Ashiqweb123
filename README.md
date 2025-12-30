@@ -9,10 +9,10 @@
 ---
 
 ## 🙋‍♂️ About Me
-আমি একজন ফ্রন্টএন্ড ওয়েব ডেভেলপার।  
-HTML, CSS, JavaScript এবং React নিয়ে কাজ করি।  
-বর্তমানে আধুনিক ওয়েব টেকনোলজি শিখছি এবং রিয়েল প্রজেক্টে কাজ করছি।  
-নিজেকে প্রতিদিন আরও ভালো ডেভেলপার বানানোর চেষ্টা করছি।
+I am a Frontend Web Developer.
+I work with HTML, CSS, JavaScript, and React.
+Currently, I am learning modern web technologies and working on real-world projects.
+I strive every day to become a better developer.
 
 ---
 
@@ -44,15 +44,13 @@ HTML, CSS, JavaScript এবং React নিয়ে কাজ করি।
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Ashiqweb123">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/rabiul-azim/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  
 </p>
 
 ---
@@ -73,4 +71,4 @@ HTML, CSS, JavaScript এবং React নিয়ে কাজ করি।
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From https://github.com/Ashiqweb123/Ashiqweb123
