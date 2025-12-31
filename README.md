@@ -55,7 +55,6 @@ I strive every day to become a better developer.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -64,6 +63,7 @@ I strive every day to become a better developer.
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashiqweb123&theme=react&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiqweb123&layout=compact&theme=react&hide_border=true)
+
 
 
 ---
