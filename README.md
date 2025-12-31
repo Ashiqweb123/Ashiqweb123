@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="(https://github.com/Ashiqweb123/Ashiqweb123/blob/main/360_F_294293388_rMi36DO4isvXoNh8B3Q5G07X0bL9z1Ng.jpg)" alt="GitHub Banner" />
+  <img src="https://github.com/Ashiqweb123/Ashiqweb123/blob/main/360_F_294293388_rMi36DO4isvXoNh8B3Q5G07X0bL9z1Ng.jpg" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rabiul Azim</h1>
