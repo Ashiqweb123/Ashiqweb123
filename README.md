@@ -17,9 +17,11 @@ I strive every day to become a better developer.
 ---
 
 ## 🔭 Current Activities
-- 🌱 Next.js এক্সপ্লোর করছি  
-- 🧑‍💻 একটি ট্যুরিজম ওয়েবসাইটে কাজ করছি  
-- ⚛️ React প্রজেক্ট প্র্যাকটিস করছি  
+🌱 Exploring Next.js
+
+⚛️ Practicing React projects
+
+🚚 Currently developing ZapShift, a delivery application
 
 ---
 
