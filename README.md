@@ -55,6 +55,9 @@ I strive every day to become a better developer.
   
 </p>
 
+## github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashiqweb123)](https://github.com/Ashiqweb123/github-readme-stats)
+
 
 
 
